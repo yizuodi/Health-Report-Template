@@ -26,7 +26,12 @@ API_KEY  APP_ID  SECRET_KEY  NETID  PASSWORD
 <img width="930" alt="image" src="https://user-images.githubusercontent.com/43570957/159113130-bf787f41-167f-431b-8471-2616feb1bf81.png">
 可查看后台运行的命令行，运行成功可在微信收到申报成功的通知。
 
-# 可选
+# 申报结果推送（可选）
+请在三种推送方式中选择一种：
+
+## Pushplus推送加 推送
+
+[Pushplus推送加](https://pushplus.plus)是一个与server酱类似的微信推送服务，请将你的一对一推送token填入`TG_BOT_TOKEN` 中以使用这种推送方式。
 
 ## Telegram Bot 推送
 
