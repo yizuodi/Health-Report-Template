@@ -11,7 +11,7 @@ jobs:
     runs-on: windows-latest
     steps:
     - name: Health Report
-      uses: Syderny/SYSU-HealthReport@master
+      uses: yizuodi/Health-Report@master
       with:
         netid: ${{secrets.NETID}}
         password: ${{secrets.PASSWORD}}
