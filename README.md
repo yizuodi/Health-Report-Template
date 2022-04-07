@@ -18,7 +18,8 @@ API_KEY  APP_ID  SECRET_KEY  NETID  PASSWORD
 
 # 定时运行
 
-默认配置为每天 0:30 UTC 运行，对应运行时间约为 9:30 Asia/Shanghai（实际上会延迟二十多分钟），如需修改时间请参考[这里](https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows#scheduled-events)。
+默认配置为每天 0:0 UTC 运行，对应运行时间约为 9:00 Asia/Shanghai（实际上会延迟二十多分钟），如需修改时间请参考[这里](https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows#scheduled-events)。
+（按理说应该UTC+8，运行时间为东八区时间8点，一些说法是因为夏令时的原因）
 
 # 手动运行
 用于测试是否可行，点击仓库的Actions
