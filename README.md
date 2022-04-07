@@ -5,7 +5,9 @@
 
 **请谨慎使用**
 
-# 使用（使用百度ocr的API）
+# 使用
+
+## 使用百度ocr的API
 - 点击此页面 [Use this template](https://github.com/yizuodi/Health-Report-Template/generate) 创建一个新的仓库。
 
 - 注册 [百度云账号](https://ai.baidu.com/tech/ocr) ，并创建一个自己的文字识别应用（注意包括通用文字识别（标准版）API），保存App ID、Api Key、Secret Key这三个参数。
@@ -14,7 +16,8 @@
 
 API_KEY  APP_ID  SECRET_KEY  NETID  PASSWORD
 
-# 使用（使用某第三方ocr平台API）（暂时失效）
+## 使用某第三方ocr平台API（暂时失效）
+
 
 # 定时运行
 
