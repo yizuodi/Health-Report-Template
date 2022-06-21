@@ -48,6 +48,8 @@ API_KEY  APP_ID  SECRET_KEY  NETID  PASSWORD
 
 如果希望使用 server 酱推送运行结果，将你的 wxsend_key 填入 `TG_BOT_TOKEN` 中，具体获取方式可前往[官网](https://sct.ftqq.com/)查看。
 
+# "workflow will be disabled soon"
+如果收到此标题的邮件，请登录github到项目action中，enable我们申报的工作流workflow。
 
 # 免责声明
 
